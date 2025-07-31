@@ -97,6 +97,14 @@
             "Black-5%": {
               "value": "#1e1d210d",
               "type": "color"
+            },
+            "Black-10%": {
+              "value": "#1e1d211a",
+              "type": "color"
+            },
+            "Black-60%": {
+              "value": "#1e1d2199",
+              "type": "color"
             }
           },
           "Grey": {
@@ -1484,6 +1492,10 @@
                 },
                 "Line-height": {
                   "value": "{Primitive.N1.Font.Line-height.Display.2XXL-61}",
+                  "type": "number"
+                },
+                "Size": {
+                  "value": "{Primitive.N1.Font.Size.Display.2XXL-48}",
                   "type": "number"
                 }
               },
@@ -3869,6 +3881,10 @@
                 "Line-height": {
                   "value": "{Primitive.N1.Font.Line-height.Display.1XXL-54}",
                   "type": "number"
+                },
+                "Size": {
+                  "value": "{Primitive.N1.Font.Size.Display.1XXL-42}",
+                  "type": "number"
                 }
               },
               "1XXL-Reg": {
@@ -6252,6 +6268,10 @@
                 },
                 "Line-height": {
                   "value": "{Primitive.N1.Font.Line-height.Display.1XXL-54}",
+                  "type": "number"
+                },
+                "Size": {
+                  "value": "{Primitive.N1.Font.Size.Display.1XXL-42}",
                   "type": "number"
                 }
               },
